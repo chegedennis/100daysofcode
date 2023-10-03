@@ -1,11 +1,13 @@
 // This is a single line of code
 
+/*
+Multi-line comment
 const x = 100;
 
 console.log(x);
 
 console.error("Alert");
-
+*/
 console.warn("Warning");
 
 console.table({ name: "Dennis", email: "dennis@gmail.com" });
